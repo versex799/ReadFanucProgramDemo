@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFanucProgramDemo", "ReadFanucProgramDemo\ReadFanucProgramDemo.csproj", "{613197CB-1FB3-4FB2-A7C8-7E4CC96C2132}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{613197CB-1FB3-4FB2-A7C8-7E4CC96C2132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613197CB-1FB3-4FB2-A7C8-7E4CC96C2132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613197CB-1FB3-4FB2-A7C8-7E4CC96C2132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613197CB-1FB3-4FB2-A7C8-7E4CC96C2132}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F0F643E-5A55-4126-A89D-A286EF1F17F1}
+	EndGlobalSection
+EndGlobal
